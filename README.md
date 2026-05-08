@@ -8,7 +8,7 @@
 typedef struct {
     int zone_id;
     double latitude;
-    double longitude;
+    double longitude:
 
     double rainfall_mm;
     double humidity;
